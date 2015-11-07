@@ -5,3 +5,4 @@ print('123')
 print('123', end='\n')
 print('123', end='xxx')
 
+print 111111
